@@ -8,6 +8,7 @@ A collection of programming assignments completed for the CSE241 Object-Oriented
 |---|------|-------|----------|
 | PA1 | [Mastermind Game](./pa1-mastermind) | Input validation, game logic, command-line arguments | C++ |
 | PA2 | [Sparse Vector and Sparse Matrix](./pa2-sparse-matrix) | Operator overloading (`+`, `-`, `*`, `=`, `<<`), file I/O, sparse data structures | C++ |
+| PA3 | [School Management System with Dynamic Memory](./pa3-school-management-system) | Dynamic memory (`new`/`delete`), pointer arrays, cross-referencing objects, interactive menu | C++ |
 
 More assignments will be added here as they are organized.
 
