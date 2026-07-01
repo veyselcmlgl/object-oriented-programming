@@ -7,6 +7,7 @@ A collection of programming assignments completed for the CSE241 Object-Oriented
 | # | Name | Topic | Language |
 |---|------|-------|----------|
 | PA1 | [Mastermind Game](./pa1-mastermind) | Input validation, game logic, command-line arguments | C++ |
+| PA2 | [Sparse Vector and Sparse Matrix](./pa2-sparse-matrix) | Operator overloading (`+`, `-`, `*`, `=`, `<<`), file I/O, sparse data structures | C++ |
 
 More assignments will be added here as they are organized.
 
