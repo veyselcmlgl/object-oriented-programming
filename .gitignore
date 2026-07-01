@@ -1,0 +1,9 @@
+# C++ build artifacts
+mastermind
+*.o
+*.out
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
